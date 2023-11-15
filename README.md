@@ -1,4 +1,4 @@
-#Prework Study Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -11,8 +11,6 @@ N/A
 ## Usage
 
 The Prework Study Guide can be used as a reference to review concepts and practices covered during the prework modules. For suggestions open the Chrome DevTools. A console panel should open. There will be a list of topics learned during prework and a suggestion on which to study first.
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
